@@ -1,0 +1,36 @@
+This directory contains images for the Reef Condo website.
+
+Required images (add your own photos):
+- hero-condo.jpg (1920x1080 recommended)
+- condo-hero.jpg (1920x1080 recommended)
+- condo-living-room.jpg (800x600 recommended)
+- condo-master-bedroom.jpg (800x600 recommended)
+- condo-kitchen.jpg (800x600 recommended)
+- condo-balcony.jpg (800x600 recommended)
+
+Activity images (800x600 recommended):
+- nobu.jpg
+- casa-d-amore.jpg
+- virgils-bbq.jpg
+- aqualounge.jpg
+- sip-sip.jpg
+- aquaventure.jpg
+- marine-habitat.jpg
+- mandara-spa.jpg
+
+Local activity images (800x600 recommended):
+- fish-fry.jpg
+- cafe-matisse.jpg
+- senor-frogs.jpg
+- green-parrot.jpg
+- queens-staircase.jpg
+- cable-beach.jpg
+- fort-charlotte.jpg
+
+Excursion images (800x600 recommended):
+- swimming-pigs.jpg
+- fishing-charter.jpg
+- snorkeling-tour.jpg
+- island-hopping.jpg
+
+For best performance, optimize images before adding them to this directory. 
